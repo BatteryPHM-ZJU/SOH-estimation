@@ -2,7 +2,7 @@
 
 ## Description
 
-This dataset contains cycling charge and discharge data for 24 NCM-18650 lithium-ion batteries, covering the entire lifespan of the batteries until their State of Health (SOH) degrades to 80%. The nominal capacity of the batteries is 1250mAh. This dataset can be used for battery SOH estimation, Remaining Useful Life (RUL) prediction, State of Charge (SOC) estimation, and other related research.
+This dataset contains cycling charge and discharge data for 24 NCM-18650 lithium-ion batteries, covering the entire lifespan of the batteries until their State of Health (SOH) degrades to 80%. The nominal capacity of the batteries is 1250mAh and the thermal chamber is set to 25℃. This dataset can be used for battery SOH estimation, Remaining Useful Life (RUL) prediction, State of Charge (SOC) estimation, and other related research.
 
 ## Data Source
 
